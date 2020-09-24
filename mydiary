@@ -1,4 +1,7 @@
 1-1: good
 1-2: good+1
+<<<<<<< HEAD
 1-3: sad
 1-4: really happy
+=======
+>>>>>>> parent of 792a997... 1-3
